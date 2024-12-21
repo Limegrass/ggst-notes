@@ -369,3 +369,116 @@ With a minion in front of them, can maybe 2D kick (check frames?)
 
 RRC
 cS 6H 236p 5k 2d 214k cS 2H 236p 9 66 hsD jP
+
+---
+
+round start
+CH 2D 236p 5k dc 6h 236[P] hs.6d 236k 2k (or anything)
+
+further
+CH 2D 236D 236p 5k DC
+CH 2D 236D cS jS 66 jppppppp 5p 6p
+
+CH 2D 236P dash brc forward cS 2H 236p cS 236k
+
+close
+CH 2D 236D 236p 5k DC
+2d 236PD 5k dc cs 6H 236P hsK (???)
+
+---
+
+5d on hit to setup a +0 situation
+
+---
+
+CH 2D 236p 5k dc cS 6h 236p 5k dc cS 2H/6HH (splat)
+
+---
+
+https://discord.com/channels/97056459585495040/877509633978286090/1307038659526004817
+https://youtu.be/r7e11AxCRr4?t=657
+
+---
+
+No cancel on some moves like 2H can hit a far behind minion, need to test out
+
+---
+
+super jank and relies on current bug
+https://youtu.be/3fTDSvuH5tQ?t=560
+
+---
+
+FED IAD safejump +5 if done a little late -- 2k to avoid
++2 if perfectly timed
+
+---
+
+cS& 66 grab autotimes grab
+
+---
+
+jH&whiff 66 jH will be gapless if no gap is left between inputs
+6pable otherwise
+
+jS can replace it instead and will hit 6p
+jS is already super +
+
+Do it fairly low to the ground to be more plus (can more than +18 even)
+
+---
+
+fS to hit minion into better angle just 5k and just pull minion after for more situations
+
+---
+
+one setup for minion drop jP other than FED
+2k 2D 214k cS 2H dl 9 iad drop minion jP
+leave minion in position without spending command meter
+
+TODO: learn how many frames required to do each safe jump
+
+---
+
+frrc from level 4 -> +~2/3
+frrc from level 3 -> ~-2
+
+fprc can be basically gapless.
+one attempt had a frametrap 2k
+regardless, also applies slow so it's probabyl generally better
+minion in position to 5h
+
+will beat 5frames even if +0 because of prc slow
+can beat throws if timed really well because of the slow too
+
+most timings will beat throw because of spacing anyways even if not plus enough for it
+
+getting a fbrc is probably even better
+both fprc and fbrc will beat other 5fs even at +0 due to slow
+the slow makes 5 framers into 9 framers (2x the 4 frame startup to 8)
+
+can't seem to do from level 2 (e.g. 2D) if they hard mash
+3 and 4 is good, but needs to be kind of clean inputs for 3
+
+---
+
+62 frames for perfectly inputted hj iad jp safejump, 2 active frames.
+
+super is +59
+
+Doing it too perfect will have the active frames not be ready during the actual wakeup
+64f for pull throw minion jS safejump at fastest, 5 active
+5 active for jH too
+
+manually timed, can get iad jS/jH on super
+also can crossup
+
+jP safejump is good after the cS 2H 214k 5k dc cS 6H combo
+the difference between the two isn't really the frame requirements I think? Mostly the distance need to travel
+If not enough spare frames, the run up momentum needed for jS/jH might take too long
+
+Particularly for 2H enders -> further, jP might be generally better?
+
+---
+
+2k 2D 236k dc cs against wall?

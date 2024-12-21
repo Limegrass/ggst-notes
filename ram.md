@@ -134,3 +134,115 @@ can keep gapless with dashup cS but need 214p after to pick up sword
 
 Remember to 2k 2d sword
 https://www.youtube.com/watch?v=0RKgy3fna-E
+
+---
+
+Two steps after grab is the iad safe jump timing. (5p frame kill is the auto setup, but for crossup)
+or right after seeing the yellow sparks on ground
+1.5 steps neutral jump after 2D -> jH safejump
+Can cross up with jD
+
+Probably try to jump right after IB attempt, or tech grab if doing fuzzies
+
+Main thing is probably commiting to a mash if I mash
+Also to combo into dauro pretty much always after first hit if possible
+eg. after cH jS
+Kara is super good for meter building in general
+
+Would be good to mix in some fake stuff to increase mental stack
+Don't overcomplicate if the opponent is stupid, frame traps should be enough
+
+Cancel jH into jD j.214S
+
+2k and 2s gets much better combos if you can combo into dauro
+
+CH fS into dauro should not over-rekka initially
+using WA to combo to the wall can save me the meter to wallbreak
+
+max fS range dauro does not combo into 5k/2k
+
+make sure to cancel every air move into 214S on hit
+
+j.214K is plus so press something after
+Since it is a high, the plus frames is mostly dependent on how high you are when you start the move. No crouch blocks.
+Rare instances where it can be more plus if they dash block into it or the tiny forward movement catches them in block later, or they stand into it from a crouch
+Chest height can frametrap a grab (only grabbable with IB) and below can be true blockstring with 5p
+
+iad jS after 214H is a frametrap/safejump only from cS 2H 214h
+
+---
+
+cS 2H dauro 5k rekka1x4 dc 236s cS 2H 214h builds enough meter for wallbreak wall to wall
+
+Probably at least +3 after jH as I can 5k catch a jump often
+
+---
+
+6h after 214h frrc (or even if rrc doesnt hit)
+
+---
+
+Can meaty sword against wall if fuck up rekka cancels into rekka3 uncharged
+midscreen can runup fS wa for pressure
+
+likely can S sword for cross up obviously
+
+---
+
+~~rekka3 hkd -> whiff 5k hj iad FDC jK +5 (depends on how high jK hits)~~
+might not need hj just need to time the jK a little late
+rekka3 hkd -> whiff 5k iad FDC jK +5~+8 (depends on how high jK hits)
+
+---
+
+rekka2 HKD -> HJ jH meaty (not safejump) +1~+6
+
+---
+
+brc bd -> cS 2H rekka1 dc 214h to keep swords
+otherwise cS 2H rekka1 rekka1 236s 5k cS 2H 214k 214h
+
+---
+
+cH 5k 5k dauro 2k 214p 66 236S 5k dash after recovery cS 2H 214p 214h 214h wall to wall break
+
+have to confirm the second 5k fast else first 214p whiffs
+
+---
+
+no sword spend/mid screen
+fS dauro cS 2H 214p 5k 6H 214k/214h (if round start distance)
+
+wall to wall must spend WA + WA OR s sword to wall break. neither are burst safe
+fS dauro cS 2H 236[D] 2H 214p dc 236s
+
+first rekka1 into 214h is somewhat consistent
+
+---
+
+Rock on oki vs Baiken
+
+BRC makes grab frame 3 instead of 2
+
+TODO: learn how many frames required to do each safe jump
+
+2k 2D WA is a combo starter
+
+---
+
+5k dauro 5k j214S delay iad jD
+can crossup depending on walk direction
+manually timed safe jump
+timing depends on height of j214S
+
+also crossup can depend on jump direction during 214s
+
+can get 5k dauro 5k jK j214S
+makes it a little easier to time the safe jump it feels
+
+FDC jK safe jump too ofc probably better but even more execution
+
+---
+
+5k 6p dauro -> safe jump +3~8
+2k 6p dauro -> no safejump, safe jab with rock +9
